@@ -20,7 +20,7 @@ public class UserService {
     private UserRepository userRepository;
 
     public UserEntity save(UserEntity user){
-        //save
+        //Save
         return userRepository.save(user);
     }
 
