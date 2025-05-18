@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/01.hello-springboot" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/01.hello-springboot" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/05.memorydb/demo" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/05.memorydb/demo" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/07.jpa/jpa" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/07.jpa/jpa" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/09.simple-board/simple-board" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/09.simple-board/simple-board" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/delivery-service/service" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/delivery-service/service" />
+            <option value="$PROJECT_DIR$/delivery-service/service/api" />
+            <option value="$PROJECT_DIR$/delivery-service/service/db" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>
